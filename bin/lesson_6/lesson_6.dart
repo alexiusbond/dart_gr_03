@@ -32,4 +32,5 @@ void main() {
     print('This dog is beautiful');
   }
   print('End of program');
+  // Конец урока 6
 }
