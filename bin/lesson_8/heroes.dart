@@ -37,7 +37,7 @@ class Magic extends Hero {
 
   @override
   void applySuperPower(Boss boss, List<Hero> heroes) {
-    // TODO: implement applySuperAbility
+    // Erzhan comment
   }
 }
 
